@@ -1,2 +1,2 @@
 # CrustyTest Bot
-An advanced CrustyTest bot! (npm module)
+An advanced CrustTest bot! (npm module)
